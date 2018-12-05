@@ -19,8 +19,17 @@
 }
 
 .App-link {
-  color: rgb(255, 249, 249);
+  color: rgb(245, 244, 244);
 
+}
+
+.Cards {
+  flex-wrap:wrap;
+  color: #fd01f0;
+}
+
+.jumbotron {
+  text-align: center;
 }
 
 @keyframes App-logo-spin {
