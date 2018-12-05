@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import { Card, CardImg, CardText, CardBody,CardTitle, CardSubtitle, Button } from 'reactstrap';
 
-export default class Kartu extends Component{
+export default class counter extends Component{
 
     state={
         angka: 0
